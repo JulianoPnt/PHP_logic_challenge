@@ -3,4 +3,18 @@
 ## All Code was writen using PHP 7.4.3
 
 ## All code was tested through php command line
-> php ex1/index.php
+> Example: php ex1/index.php
+
+## Exercises
+
+* Como se trata de avaliação de lógica e não de conhecimento específico de linguagem, evitar
+uso de funções nativas da linguagem;
+* Todos os exercícios devem ler entradas.
+
+---
+### 1: Escrever um algoritmo que rotacione um array em k posições. Exemplo: o array [1,2,3,4,5,6] se for girado duas posições para a esquerda se torna [3,4,5,6,1,2]. Tente resolver sem usar uma cópia da array.
+
+---
+### 2: Criar um algoritmo que leia um vetor de números e reordene este vetor contendo no início os números pares de forma crescente e, depois, os ímpares de forma decrescente.
+
+---
