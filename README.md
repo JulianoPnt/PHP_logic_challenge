@@ -1,11 +1,11 @@
-# PHP_Logic_Bling
+# Desafio de lógica PHP
 
-## All Code was writen using PHP 7.4.3
+## Todo o código foi escrito utilizando PHP 7.4.3
+### A maioria dos exercícios foram feitas de maneira imperativa devido a ser somente um teste de lógica =D
+## Todos os exercícios foram testados via command line
+> Exemplo: php ex1/index.php
 
-## All code was tested through php command line
-> Example: php ex1/index.php
-
-## Exercises
+## Exercícios
 
 * Como se trata de avaliação de lógica e não de conhecimento específico de linguagem, evitar
 uso de funções nativas da linguagem;
@@ -16,5 +16,9 @@ uso de funções nativas da linguagem;
 
 ---
 ### 2: Criar um algoritmo que leia um vetor de números e reordene este vetor contendo no início os números pares de forma crescente e, depois, os ímpares de forma decrescente.
+
+---
+
+### 3: Escreva um algoritmo que calcule o tempo em dias a partir de uma data inicial e final recebidos no formato dd/mm/aaaa. Não deve usar funções de data e hora.
 
 ---
