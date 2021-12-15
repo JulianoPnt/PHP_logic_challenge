@@ -5,6 +5,7 @@ function getRectangleArea($lb, $rt) {
     return abs($lb[0] - $rt[0]) * abs($lb[1] - $rt[1]);
 }
 
+// If the x_dist or y_dist is negative, then the two rectangles do not intersect. In that case, overlapping area is 0.
 function calculateOverlapArea($rect1_lb, $rect1_rt, $rect2_lb, $rect2_rt) {
     $x = 0;
     $y = 1;
