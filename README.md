@@ -22,3 +22,7 @@ uso de funções nativas da linguagem;
 ### 3: Escreva um algoritmo que calcule o tempo em dias a partir de uma data inicial e final recebidos no formato dd/mm/aaaa. Não deve usar funções de data e hora.
 
 ---
+
+### 4: Receba 6 números representando medidas a,b,c,d,e e f e relacionar quantos e quais triângulos é possível formar usando estas medidas. Exemplo [abc], [abd]...
+
+---
