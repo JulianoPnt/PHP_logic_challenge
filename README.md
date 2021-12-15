@@ -5,7 +5,7 @@
 ## Todos os exercícios foram testados via command line
 > Exemplo: php ex1/index.php
 
-## Exercícios
+## Exercícios Algoritmos e lógica
 
 * Como se trata de avaliação de lógica e não de conhecimento específico de linguagem, evitar
 uso de funções nativas da linguagem;
@@ -32,3 +32,26 @@ uso de funções nativas da linguagem;
 ### 6: Criar um algoritmo que teste se dois retângulos se sobrepõem em um plano cartesiano e calcule a área do retângulo criado pela sobreposição. Deve receber como entrada dois retângulos formados por pontos, ex: (0,0),(2,2),(2,0),(0,2),(1,0),(1,2),(6,0),(6,2) e gerar uma saída informando a área calculada ou zero se não ocorrer sobreposição
 
 ---
+
+### 7: Um algoritmo deve armazenar o mapa abaixo e listar os caminhos entre os pontos A e E.
+
+![Image](https://i.imgur.com/wC30OGd.png)
+---
+
+## Exercícios Programação orientada à objetos e design patterns
+
+### Implementar o padrão iterator no modelo abaixo. Apresentar o diagrama de classes e pseudocódigo.
+![Image](https://i.imgur.com/PpjfPaq.png)
+
+## Exercícios Programação orientada à objetos e design patterns
+### Considere o diagrama ER abaixo:
+![ER Model](https://i.imgur.com/59ymr2k.png)
+### Com base nele:
+1. Defina as cardinalidades mínimas e máximas.
+2. Crie o esquema do banco e apresente o DDL utilizado.
+3. Apresente o SQL para as seguintes consultas:
+    - a. Atores do filme com título “XYZ”.
+    - b. Filmes que o ator de nome “FULANO” participou.
+    - c. Listar os filmes do ano 2015 ordenados pela quantidade de atores participantes e pelo
+    título em ordem alfabética.
+    - d. Listar os atores que trabalharam em filmes cujo diretor foi “SPIELBERG”.
