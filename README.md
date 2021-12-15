@@ -26,6 +26,9 @@ uso de funções nativas da linguagem;
 ### 4: Receba 6 números representando medidas a,b,c,d,e e f e relacionar quantos e quais triângulos é possível formar usando estas medidas. Exemplo [abc], [abd]...
 
 ---
+### 5: Um algoritmo deve buscar um sub-texto dentro de um texto fornecido. (Não usar funções de busca em string).
+
+---
 ### 6: Criar um algoritmo que teste se dois retângulos se sobrepõem em um plano cartesiano e calcule a área do retângulo criado pela sobreposição. Deve receber como entrada dois retângulos formados por pontos, ex: (0,0),(2,2),(2,0),(0,2),(1,0),(1,2),(6,0),(6,2) e gerar uma saída informando a área calculada ou zero se não ocorrer sobreposição
 
 ---
