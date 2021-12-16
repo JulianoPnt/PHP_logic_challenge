@@ -43,7 +43,7 @@ uso de funções nativas da linguagem;
 ### Implementar o padrão iterator no modelo abaixo. Apresentar o diagrama de classes e pseudocódigo.
 ![Image](https://i.imgur.com/PpjfPaq.png)
 
-## Exercícios Programação orientada à objetos e design patterns
+## Exercícios SQL - modelo relacional
 ### Considere o diagrama ER abaixo:
 ![ER Model](https://i.imgur.com/59ymr2k.png)
 ### Com base nele:
